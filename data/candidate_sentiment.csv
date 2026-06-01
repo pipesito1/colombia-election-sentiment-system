@@ -1,0 +1,4 @@
+candidate,text,date,source,sentiment,confidence
+cepeda,"A horas de las elecciones presidenciales, Iván Cepeda dedicó buena parte de su discurso final a disipar dudas: 'Les reitero mi intención de diálogo'",2026-05-30T15:38:58-05:00,https://www.eltiempo.com/rss/politica.xml,positive,0.3740372657775879
+paloma,Exalcaldes de Antioquia anuncian respaldo a la candidatura de Paloma Valencia y Juan Daniel Oviedo a un día de las elecciones,2026-05-30T12:01:23-05:00,https://www.eltiempo.com/rss/politica.xml,negative,0.2704858183860779
+abelardo,Elecciones presidenciales en Colombia 2026: WestCol prepara entrevista con Abelardo de la Espriella; cuándo será y qué se espera del encuentro,2026-05-30T17:22:01-05:00,https://www.eltiempo.com/rss/politica.xml,positive,0.2951834201812744
